@@ -1,0 +1,2 @@
+# nooru
+C programmer
